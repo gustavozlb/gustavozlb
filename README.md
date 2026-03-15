@@ -50,4 +50,3 @@ Sou Técnico de Desenvolvimento de Sistemas, e atualmente matriculado no curso d
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-zimermann-lopes-barroso-710789348/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:gustavo.zimermannlb@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-234ea94b?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55+47+988741689)  
-[![GitHub](https://img.shields.io/badge/GitHub-E44C30?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gustavozlb)
