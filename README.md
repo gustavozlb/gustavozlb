@@ -3,15 +3,13 @@
 Sou Técnico de Desenvolvimento de Sistemas, e atualmente matriculado no curso de Engenharia de Software na Univille. Busco consolidar meus conhecimentos em desenvolvimento de software, boas práticas de programação e resolução de problemas.
 
 ### 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0101dev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0101dev&layout=compact&theme=radical)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavozlb&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavozlb&layout=compact&theme=radical)
 
 ### 🚀 Projetos em Destaque
 - [Sistema de Gerenciamento de uma Pizzaria]([https://github.com/0101dev/nome-do-projeto](https://github.com/gustavozlb/-Pizzaria-Web-)) – Aplicação fullstack com Spring Boot e Java.
 - [Java RESTful API para loja de jogos]([https://github.com/0101dev/nome-do-projeto](https://github.com/gustavozlb/santander-dev-week-2023)) – API feita por mim.
 - [Loja via Tkinter]((https://github.com/gustavozlb/Tkinter-Sa)) – Trabalho via Tkinter em que criamos uma loja.
-
 
 ## 🛠️ Tecnologias que já utilizei
 
