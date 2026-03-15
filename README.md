@@ -1,7 +1,19 @@
 ## Bem vindo ao meu GitHub!!
 
+Sou Técnico de Desenvolvimento de Sistemas, e atualmente matriculado no curso de Engenharia de Software na Univille. Busco consolidar meus conhecimentos em desenvolvimento de software, boas práticas de programação e resolução de problemas.
+
+### 📊 Estatísticas do GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0101dev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0101dev&layout=compact&theme=radical)
 
 
+### 🚀 Projetos em Destaque
+- [Sistema de Gerenciamento de uma Pizzaria]([https://github.com/0101dev/nome-do-projeto](https://github.com/gustavozlb/-Pizzaria-Web-)) – Aplicação fullstack com Spring Boot e Java.
+- [Java RESTful API para loja de jogos]([https://github.com/0101dev/nome-do-projeto](https://github.com/gustavozlb/santander-dev-week-2023)) – API feita por mim.
+- [Loja via Tkinter]((https://github.com/gustavozlb/Tkinter-Sa)) – Trabalho via Tkinter em que criamos uma loja.
+
+
+## 🛠️ Tecnologias que já utilizei
 
 ### Marcação e Estilo
  
@@ -34,24 +46,9 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)
 
-### Social
+### 🤝 Vamos nos conectar
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000000?style=for-the-badge&logo=gitbook&logoColor=white)](https://web.dio.me/users/zimermanng66/?tab=achievements)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-zimermann-lopes-barroso-710789348/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:gustavo.zimermannlb@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-234ea94b?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55+47+988741689)  
 [![GitHub](https://img.shields.io/badge/GitHub-E44C30?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0101dev)
-
-<!--
-**gustavozlb/gustavozlb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
