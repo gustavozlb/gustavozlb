@@ -52,5 +52,4 @@ Sou Técnico de Desenvolvimento de Sistemas, e atualmente matriculado no curso d
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-234ea94b?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55+47+988741689)  
 
 ![snake gif](https://github.com/gustavozlb/gustavozlb/blob/output/github-contribution-grid-snake.svg)
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=gustavozlb&repo=gustavozlb&theme=react)](https://github.com/gustavozlb/gustavozlb)
 
