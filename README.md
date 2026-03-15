@@ -9,7 +9,7 @@ Sou Técnico de Desenvolvimento de Sistemas, e atualmente matriculado no curso d
 ### 🚀 Projetos em Destaque
 - [Sistema de Gerenciamento de uma Pizzaria](https://github.com/gustavozlb/-Pizzaria-Web-) – Aplicação fullstack com Spring Boot e Java.
 - [Java RESTful API para loja de jogos](https://github.com/gustavozlb/santander-dev-week-2023) – API feita por mim.
-- [Loja via Tkinter](https://github.com/gustavozlb/Tkinter-Sa) – Trabalho via Tkinter em que criamos uma loja.
+- [Loja via Tkinter](https://github.com/gustavozlb/Tkinter-Sa) – Trabalho via Tkinter em que eu e minha equipe criamos uma loja.
 
 
 ## 🛠️ Tecnologias que já utilizei
