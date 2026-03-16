@@ -1,4 +1,4 @@
-<h1>Bem vindo ao meu GitHub!!</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bem+vindo+ao+meu+GitHub!!)](https://git.io/typing-svg)
 
 Sou Técnico de Desenvolvimento de Sistemas, e atualmente matriculado no curso de Engenharia de Software na Univille. Busco consolidar meus conhecimentos em desenvolvimento de software, boas práticas de programação e resolução de problemas.
 
