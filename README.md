@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?size=30&lines=Bem+vindo+ao+meu+GitHub!!;Explorando+meus+projetos+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?size=30&color=%234B0082&lines=Bem+vindo+ao+meu+GitHub!!;Explorando+meus+projetos+🚀)](https://git.io/typing-svg)
 
 Sou Técnico de Desenvolvimento de Sistemas, e atualmente matriculado no curso de Engenharia de Software na Univille. Busco consolidar meus conhecimentos em desenvolvimento de software, boas práticas de programação e resolução de problemas.
 
