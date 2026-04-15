@@ -5,8 +5,6 @@ Sou Técnico de Desenvolvimento de Sistemas, e atualmente matriculado no curso d
 ### 📊 Estatísticas do GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavozlb&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavozlb&layout=compact&theme=radical)
-[![Default input values uses light theme](https://raw.githubusercontent.com/gustavozlb/gustavozlb/samples/images/light.svg)](https://github.com/gustavozlb/user-statistician)
-
 
 ### 🚀 Projetos em Destaque
 - [Sistema de Gerenciamento de uma Pizzaria](https://github.com/gustavozlb/-Pizzaria-Web-) – Aplicação fullstack com Spring Boot e Java.
