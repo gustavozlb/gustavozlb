@@ -3,7 +3,7 @@
 Sou Técnico de Desenvolvimento de Sistemas, e atualmente matriculado no curso de Engenharia de Software na Univille. Busco consolidar meus conhecimentos em desenvolvimento de software, boas práticas de programação e resolução de problemas.
 
 ### 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavozlb&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavozlb&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavozlb&layout=compact&theme=radical)
 
 ### 🚀 Projetos em Destaque
@@ -23,7 +23,7 @@ Sou Técnico de Desenvolvimento de Sistemas, e atualmente matriculado no curso d
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white).
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-192436?style=for-the-badge&logo=php)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
